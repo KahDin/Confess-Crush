@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi Mei đán eo, cute 🥰🥰🥰",
-    introTitle: 'Mei Cá Mập 🦈🦈🦈',
+    titleWeb: "Gửi Na đán eo, cute 🥰🥰🥰",
+    introTitle: 'Na Bướng 🔫🔫🔫',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Hẹn Mei 1 ngày gần nhất trên Hola nha !!!',
+    messDesc: 'Hẹn Na 1 ngày gần nhất nha !!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100009302437176' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100013097410346' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
